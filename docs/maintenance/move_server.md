@@ -6,7 +6,7 @@ It is necessary to make some preparations so that the move can be completed with
 
 ### 1. Installing the SQL server
 
-If the SQL server and the application server are on the same machine, the SQL server should be installed on the new machine first. It is necessary to observe the [system requirements](/doc/installation/requirements/mssql) for this process.
+If the SQL server and the application server are on the same machine, the SQL server should be installed on the new machine first. It is necessary to observe the [system requirements](/docs/installation/requirements/mssql) for this process.
 
 ### 2. Installing the server
 
